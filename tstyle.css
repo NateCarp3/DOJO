@@ -1,0 +1,26 @@
+.M
+{    background-color: black;
+    color: white;
+}
+
+.C
+{    color: turquoise;
+}
+.CP
+{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    font-style: italic;
+
+}
+
+.CU
+{
+    background-color: lightblue;
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+    
+}
+
